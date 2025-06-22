@@ -1,0 +1,11 @@
+customer_id,customer_fname,customer_lname,customer_email,customer_phone
+1,John,Doe,jdoe@gmail.com,555-123-4628
+2,Jane,Smith,jsmith@gmail.com,555-567-8472
+3,Robert,Brown,rbrown@gmail.com,555-876-5401
+4,Emily,Davis,edavis@yahoo.com,
+5,Michael,,rjohnson@gmail.com,437-382-3971
+6,Jessica,Williams,,467-284-7102
+7,David,Jones,555-6789,
+8,Sarah,Garcia,sgarcia@gmail.com,333-271-8712
+,James,,jmiller@yahoo.com,555-987-6353
+10,,Martinez,lmartinez@gmail.com,555-246-2712

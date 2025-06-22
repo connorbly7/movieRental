@@ -1,0 +1,7 @@
+employee_id,employee_fname,employee_lname,role,salary,hire_date,employee_email,employee_phone
+1,Sarah,Jensen,Manager,55000,2022-01-07,sarahj@gmail.com,555-398-3812
+2,Marcus,Lee,Associate,,2024-05-06,555-398-3812
+3,,Patel,Associate,42000,2023-10-12,ppriya@gmail.com,532-123-4567
+4,,Thompson,Assistant Manager,48000,2021-10-12,bthompson@gmail.com,
+5,Diego,,Associate,40000,,dramirez@gmail.com,555-334-4328
+,Emily,Johnson,Associate,41000,ejohnson@gmail.com,555-222-3333
