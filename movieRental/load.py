@@ -10,7 +10,7 @@ def load_data(customers, employees, movies, rentals):
     """
         Loads the cleaned data into MySQL as the movierental database
         
-        Paramters:
+        Parameters:
             customers: Cleaned customer data
             employees: Cleaned employee data
             movies: Cleaned movie data
