@@ -3,6 +3,18 @@ import numpy as np
 
 
 def transform_data(customers, employees, movies, rentals):
+    """
+        Cleans the data by filling null values, creating new columns, and deleting rows as needed
+        
+        Parameters:
+            customers: Dataframe containing customer data
+            employees: Dataframe containing employee data
+            movies: Dataframe containing movie data
+            rentals: Dataframe containing rental data
+
+        Returns:
+            Cleaned dataframes for customers, employees, movies, and rentals
+    """
 
     ## Creates a copy of the dataframe to avoid modifying the original data
     customers = customers.copy()
