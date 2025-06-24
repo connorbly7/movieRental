@@ -4,4 +4,4 @@ employee_id,employee_fname,employee_lname,role,salary,hire_date,employee_email,e
 3,,Patel,Associate,42000,2023-10-12,ppriya@gmail.com,532-123-4567
 4,,Thompson,Assistant Manager,48000,2021-10-12,bthompson@gmail.com,
 5,Diego,,Associate,40000,,dramirez@gmail.com,555-334-4328
-,Emily,Johnson,Associate,41000,ejohnson@gmail.com,555-222-3333
+,Emily,Johnson,Associate,41000,,ejohnson@gmail.com,555-222-3333
